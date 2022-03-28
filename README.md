@@ -1,6 +1,6 @@
 # bikesharing NYC Citibike Analysis
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/authoring/NYCCitiBikeAnalysis_16485033949850/NYCCitiBikeAnalysis#1) 
 
 
 ## Overview of the analysis: 
