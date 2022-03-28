@@ -4,7 +4,8 @@
 
 
 ## Overview of the analysis: 
-* Explain the purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal.
+
+* The purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal based on the visualizations created in tableau.
 
 
 
@@ -13,7 +14,7 @@
 
 
 
-* ![checkouttimesbygender](https://user-images.githubusercontent.com/93004710/160474820-9ac0525d-bd05-4d0e-b64d-678cc4d59253.png)
+ ![checkouttimesbygender](https://user-images.githubusercontent.com/93004710/160474820-9ac0525d-bd05-4d0e-b64d-678cc4d59253.png)
 
 
 
@@ -22,7 +23,7 @@
  
  
  
-* ![checkouttimesforusers](https://user-images.githubusercontent.com/93004710/160474843-09629d48-2cd3-4e4d-b72d-21b09ed42f36.png)
+ ![checkouttimesforusers](https://user-images.githubusercontent.com/93004710/160474843-09629d48-2cd3-4e4d-b72d-21b09ed42f36.png)
 
 
 
@@ -34,7 +35,7 @@
 
 
 
-* ![tripsbygender(weekdayperhour)](https://user-images.githubusercontent.com/93004710/160474849-435bf93b-044c-41ba-bd24-45e295795ddb.png)
+ ![tripsbygender(weekdayperhour)](https://user-images.githubusercontent.com/93004710/160474849-435bf93b-044c-41ba-bd24-45e295795ddb.png)
 
 
 
@@ -44,7 +45,7 @@
 
 
 
-* ![tripsbyweekdayperhour](https://user-images.githubusercontent.com/93004710/160474858-db5b513e-0181-4f4a-a83d-d8b5c7606fa7.png)
+ ![tripsbyweekdayperhour](https://user-images.githubusercontent.com/93004710/160474858-db5b513e-0181-4f4a-a83d-d8b5c7606fa7.png)
 
 
 
@@ -55,23 +56,35 @@
 
 
 
-* ![usertripsbygenderbyweekday](https://user-images.githubusercontent.com/93004710/160474873-cc48979f-72fd-49ff-a7e3-e827104d1dd9.png)
+ ![usertripsbygenderbyweekday](https://user-images.githubusercontent.com/93004710/160474873-cc48979f-72fd-49ff-a7e3-e827104d1dd9.png)
 
 
 
 
 
 
-*  The number of bike trips for each type of user and gender for each day of the week.
+*  The number of bike trips for each type of user and gender for each day of the week shown above.
 
 
 
 
+![topstartinglocations](https://user-images.githubusercontent.com/93004710/160493801-7124ba72-a9ad-433d-a3f4-707bd4a177c4.png)
 
 
-* Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-* There are at least seven visualizations for the NYC Citibike analysis
-There is a description of the results for each visualization
+
+* The top starting locations shown above.
+
+
+
+![topendinglocations](https://user-images.githubusercontent.com/93004710/160493810-61bd8740-a80a-40fa-8e56-126bbc2e7bce.png)
+
+
+
+* The top ending locations shown above.
+
+
 ## Summary: 
-* Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-* There is a high-level summary of the results and two additional visualizations are suggested for future analysis.
+
+* Based on the results above the bike sharing model is working in NYC. The city is densely populated as can be see with the top starting and ending locations being almost identical however it seems there are more ending locations outside of the inner city than the starting locations. I believe this is a good sign for the city of Des Moines where the city is more spread out. Males and male subscribers are the highest users for the bike sharing which also I believe is good for the city of Des Moines. The bike repairs chart shows majority of bike have been repaired. This is shown in the "yellowish" colors of the temperature color map resulting in maintenance being a key role for success of the bike sharing program.
+* An additional visualization I would perform would be the life expectancy of any given bike. 
+* An additional visualization I would perform would be the age group of users to see who the largest target audience is and what audience can be more targeted.
